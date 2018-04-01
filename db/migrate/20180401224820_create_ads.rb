@@ -3,7 +3,7 @@ class CreateAds < ActiveRecord::Migration[5.1]
     create_table :ads do |t|
       t.integer :window_id
       t.string :name
-      t.integer :hourly-impressions
+      t.integer :hourly_impressions
 
       t.timestamps
     end
