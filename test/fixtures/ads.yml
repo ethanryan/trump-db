@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  window_id: 1
+  name: MyString
+  hourly-impressions: 1
+
+two:
+  window_id: 1
+  name: MyString
+  hourly-impressions: 1
