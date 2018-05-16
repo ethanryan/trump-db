@@ -25,21 +25,21 @@ properties = Property.create([
 windows = Window.create([
   {
     property_id: 1,
-    hourly_foot_traffic: 1200,
-    hourly_vehicle_traffic: 700,
-    hourly_mobile_devices: 500,
+    hourly_foot_traffic: 3181,
+    hourly_vehicle_traffic: 1438,
+    hourly_mobile_devices: 4635,
   },
   {
     property_id: 2,
-    hourly_foot_traffic: 1200,
-    hourly_vehicle_traffic: 700,
-    hourly_mobile_devices: 500,
+    hourly_foot_traffic:  2854,
+    hourly_vehicle_traffic: 1151,
+    hourly_mobile_devices: 3376,
   },
   {
     property_id: 3,
-    hourly_foot_traffic: 1200,
-    hourly_vehicle_traffic: 700,
-    hourly_mobile_devices: 500,
+    hourly_foot_traffic: 5214,
+    hourly_vehicle_traffic: 2098,
+    hourly_mobile_devices: 3472,
   },
 ])
 
@@ -47,12 +47,12 @@ ads = Ad.create([
   {
     window_id: 1,
     name: "Nike",
-    hourly_impressions: 776,
+    hourly_impressions: 1776,
   },
   {
     window_id: 2,
     name: "McDonald's",
-    hourly_impressions: 439,
+    hourly_impressions: 2439,
   },
   {
     window_id: 3,
